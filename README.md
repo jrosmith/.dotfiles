@@ -4,5 +4,5 @@ cd ~
 git clone https://github.com/jrosmith/.dotfiles.git
 ```
 
-Add dotfiles as you wish.
+Add dotfiles from subfolders as you wish. Check respective subfolders for instructions.
 
